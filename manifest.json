@@ -1,0 +1,479 @@
+{
+  "version": 1784410921755,
+  "mods": [
+    {
+      "name": "addictives-3.1.7.jar",
+      "size": 893954,
+      "sha1": "b122f8dc7be3c0eb5c4a72c7b3659b8052497091",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/addictives-3.1.7.jar"
+    },
+    {
+      "name": "alexsmobs-1.22.9.jar",
+      "size": 26353038,
+      "sha1": "c6a76b25d63ac545a334b2c963b586dbdf82a97d",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/alexsmobs-1.22.9.jar"
+    },
+    {
+      "name": "another_furniture-neoforge-4.0.2.jar",
+      "size": 2417424,
+      "sha1": "9036bc4754f74287f94fbf0102ea0d47d394877d",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/another_furniture-neoforge-4.0.2.jar"
+    },
+    {
+      "name": "Antique Atlas-1.21.1-8.0.1-NeoForge.jar",
+      "size": 1477919,
+      "sha1": "61fdc2384975445faacc548076f597e40315b773",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/Antique%20Atlas-1.21.1-8.0.1-NeoForge.jar"
+    },
+    {
+      "name": "architectury-13.0.8-neoforge.jar",
+      "size": 584004,
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/architectury-13.0.8-neoforge.jar"
+    },
+    {
+      "name": "balm-neoforge-1.21.1-21.0.63.jar",
+      "size": 782380,
+      "sha1": "d452e71d4ff81a047f6e22f9a3ddb3c72632751e",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/balm-neoforge-1.21.1-21.0.63.jar"
+    },
+    {
+      "name": "baubley-heart-canisters-1.21.1-1.4.1.jar",
+      "size": 172210,
+      "sha1": "af4d0ffd7eff13556106c247277b67c3a0be8e53",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/baubley-heart-canisters-1.21.1-1.4.1.jar"
+    },
+    {
+      "name": "bettercombat-neoforge-2.4.0+1.21.1.jar",
+      "size": 1045389,
+      "sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/bettercombat-neoforge-2.4.0%2B1.21.1.jar"
+    },
+    {
+      "name": "blockui-1.0.209-1.21.1.jar",
+      "size": 468001,
+      "sha1": "01cba16a7d71521b81d791a07740464e6d70d0a6",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/blockui-1.0.209-1.21.1.jar"
+    },
+    {
+      "name": "buildinggadgets2-1.3.9.jar",
+      "size": 3858597,
+      "sha1": "666a155981e3cd231f67809b9e2a0238377bbbfc",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/buildinggadgets2-1.3.9.jar"
+    },
+    {
+      "name": "camera-neoforge-1.21.1-1.0.21.jar",
+      "size": 302968,
+      "sha1": "b539774b7d1e9da8976e81d1eca8ae6d53f26204",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/camera-neoforge-1.21.1-1.0.21.jar"
+    },
+    {
+      "name": "chat_heads-0.15.2-neoforge-1.21.jar",
+      "size": 89325,
+      "sha1": "86abc08fbfa8eb3e2a41aa4403a6bd52543ea665",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/chat_heads-0.15.2-neoforge-1.21.jar"
+    },
+    {
+      "name": "citadel-2.7.0-1.21.1.jar",
+      "size": 3033192,
+      "sha1": "01b18dfa37528aebd63b49874c9ac7795a4fc084",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/citadel-2.7.0-1.21.1.jar"
+    },
+    {
+      "name": "cloth-config-15.0.140-neoforge.jar",
+      "size": 1163890,
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/cloth-config-15.0.140-neoforge.jar"
+    },
+    {
+      "name": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "size": 18382,
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+    },
+    {
+      "name": "CodeChickenLib-1.21.1-4.6.1.526.jar",
+      "size": 1538347,
+      "sha1": "6a278b5a2788c2fee7ae52d17f24187332d436b2",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/CodeChickenLib-1.21.1-4.6.1.526.jar"
+    },
+    {
+      "name": "collective-1.21.1-8.39.jar",
+      "size": 1061931,
+      "sha1": "b1153f03c97bccaa6bc11d6199f07f16ef4318ff",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/collective-1.21.1-8.39.jar"
+    },
+    {
+      "name": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "size": 1791747,
+      "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+    },
+    {
+      "name": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "size": 65716,
+      "sha1": "0f5a6309ce8394721b97740e6f3e45665f13b8de",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/coroutil-neoforge-1.21.0-1.3.9.jar"
+    },
+    {
+      "name": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "size": 253695,
+      "sha1": "4f42091ef36e98e99c2f28a273ded960c0ac08bd",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/corpse-neoforge-1.21.1-1.1.13.jar"
+    },
+    {
+      "name": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "size": 92722,
+      "sha1": "5f1e699cd0888b857ec63f01adaeb3571848bfea",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
+    },
+    {
+      "name": "create-1.21.1-6.0.10.jar",
+      "size": 19123767,
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/create-1.21.1-6.0.10.jar"
+    },
+    {
+      "name": "create-stuff-additions1.21.1_v2.1.4a.jar",
+      "size": 1344545,
+      "sha1": "cb0ab0117feba62a2ae04baa4dc754363c4eacc4",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/create-stuff-additions1.21.1_v2.1.4a.jar"
+    },
+    {
+      "name": "createaddition-1.6.0.jar",
+      "size": 1661802,
+      "sha1": "87b539d41ed238e98b26c607c0c81a973323147e",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/createaddition-1.6.0.jar"
+    },
+    {
+      "name": "createdeco-2.1.3.jar",
+      "size": 3328498,
+      "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/createdeco-2.1.3.jar"
+    },
+    {
+      "name": "createdieselgenerators-1.21.1-1.3.14.jar",
+      "size": 3143118,
+      "sha1": "565e9014912b8692ff8866be17dd739505062374",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/createdieselgenerators-1.21.1-1.3.14.jar"
+    },
+    {
+      "name": "create_connected-1.3.2-mc1.21.1.jar",
+      "size": 6779410,
+      "sha1": "920de05b13c32fe1417d0aec0615057aa480cc8d",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/create_connected-1.3.2-mc1.21.1.jar"
+    },
+    {
+      "name": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "size": 583525,
+      "sha1": "d250804b7ecea365bc736ec36ec6fc3f933917f1",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/cristellib-neoforge-1.21.1-3.1.7.jar"
+    },
+    {
+      "name": "curios-neoforge-9.5.1+1.21.1.jar",
+      "size": 410690,
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/curios-neoforge-9.5.1%2B1.21.1.jar"
+    },
+    {
+      "name": "domum-ornamentum-1.0.231-main.jar",
+      "size": 1143596,
+      "sha1": "a8ec9660788133676fd440ce6998d813184cd486",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/domum-ornamentum-1.0.231-main.jar"
+    },
+    {
+      "name": "doubledoors-1.21.1-7.2.jar",
+      "size": 75041,
+      "sha1": "73ddb685749a0ae9223e9b827af5fd3e19ac732c",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/doubledoors-1.21.1-7.2.jar"
+    },
+    {
+      "name": "DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "size": 738480,
+      "sha1": "3abb84c4fcf1229fced0cc5e88fa6e9baa0aa4a7",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar"
+    },
+    {
+      "name": "easy_factions-neoforge-1.1.0-1.21.1-java21.jar",
+      "size": 396512,
+      "sha1": "9b1354fb4fbd6db577d24912ae1c58745655758b",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/easy_factions-neoforge-1.1.0-1.21.1-java21.jar"
+    },
+    {
+      "name": "EnderStorage-1.21.1-2.13.0.191.jar",
+      "size": 264089,
+      "sha1": "5b5fc717242a9eb2d8b4a5e57ea1a38446722864",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/EnderStorage-1.21.1-2.13.0.191.jar"
+    },
+    {
+      "name": "fantasy_armor-neoforge-1.2.4-1.21.1.jar",
+      "size": 537069,
+      "sha1": "2b103680ca80a1d617dcae74630c4df8e93d3c55",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar"
+    },
+    {
+      "name": "FramedBlocks-10.6.1.jar",
+      "size": 4306703,
+      "sha1": "3007be0007d09c0225ca33b647461f342eac0503",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/FramedBlocks-10.6.1.jar"
+    },
+    {
+      "name": "ftb-library-neoforge-2101.1.33.jar",
+      "size": 1425984,
+      "sha1": "a653118630fa17ed37d67b0beddc5984c760fc72",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ftb-library-neoforge-2101.1.33.jar"
+    },
+    {
+      "name": "ftb-teams-neoforge-2101.1.10.jar",
+      "size": 302712,
+      "sha1": "363376ae0fb22cb0527170fdf6a066d1da9b0225",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ftb-teams-neoforge-2101.1.10.jar"
+    },
+    {
+      "name": "fusion-1.3.7-neoforge-mc1.21.1.jar",
+      "size": 915529,
+      "sha1": "c8a3fe9e0fe4fe51b7ab6da9704afd0fecbd3afb",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/fusion-1.3.7-neoforge-mc1.21.1.jar"
+    },
+    {
+      "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+      "size": 217081,
+      "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
+    },
+    {
+      "name": "ironchest-1.21-neoforge-16.0.7.jar",
+      "size": 305975,
+      "sha1": "7064b4ea349f37d95a6448c3179dc0a2cad0c162",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ironchest-1.21-neoforge-16.0.7.jar"
+    },
+    {
+      "name": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "size": 576866,
+      "sha1": "9a40f949ec9794cdef79bdabb61a12a918613194",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
+    },
+    {
+      "name": "jei-1.21.1-neoforge-19.27.0.336.jar",
+      "size": 1529192,
+      "sha1": "d02c849e4e321e7b056a48e0242ec641560c2ab8",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/jei-1.21.1-neoforge-19.27.0.336.jar"
+    },
+    {
+      "name": "lithostitched-1.7.13-neoforge-21.1.jar",
+      "size": 852541,
+      "sha1": "771a104dde071e16e67c7cd3149f7c3015375483",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/lithostitched-1.7.13-neoforge-21.1.jar"
+    },
+    {
+      "name": "lootr-neoforge-1.21.1-1.11.37.122.jar",
+      "size": 992330,
+      "sha1": "a5dae941acc991df3f0de56bd8367f719824f131",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/lootr-neoforge-1.21.1-1.11.37.122.jar"
+    },
+    {
+      "name": "medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar",
+      "size": 538109,
+      "sha1": "6efa264eabf4a53283660814be3e395500f339f0",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar"
+    },
+    {
+      "name": "medieval_paintings-1.21.1-7.0.jar",
+      "size": 917024,
+      "sha1": "a126b225fb23ecc3a00f8a2a5c00abd418a6077b",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/medieval_paintings-1.21.1-7.0.jar"
+    },
+    {
+      "name": "minecolonies-1.1.1319-1.21.1.jar",
+      "size": 77496046,
+      "sha1": "d12b742cbe4013321924041a3d88bdc5e6c51ee7",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/minecolonies-1.1.1319-1.21.1.jar"
+    },
+    {
+      "name": "Morphise-1.0.0.jar",
+      "size": 211603,
+      "sha1": "7f1e38334b8358077da96c407e8b2e1e1101106b",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/Morphise-1.0.0.jar"
+    },
+    {
+      "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "size": 73938,
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+    },
+    {
+      "name": "multipiston-1.2.58-1.21.1.jar",
+      "size": 34139,
+      "sha1": "2b63be739da24247328e4052ec91c928230d0390",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/multipiston-1.2.58-1.21.1.jar"
+    },
+    {
+      "name": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "size": 224657,
+      "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+    },
+    {
+      "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "size": 544378,
+      "sha1": "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
+    },
+    {
+      "name": "pipez-neoforge-1.21.1-1.2.31.jar",
+      "size": 456599,
+      "sha1": "a5671f7e8d38dfc092ace4091250e8f9e1245e1e",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/pipez-neoforge-1.21.1-1.2.31.jar"
+    },
+    {
+      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 203149,
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+    },
+    {
+      "name": "rechiseled-1.2.5-neoforge-mc1.21.jar",
+      "size": 11498611,
+      "sha1": "ed2973c6952caa3173259314276b5b9d72880494",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/rechiseled-1.2.5-neoforge-mc1.21.jar"
+    },
+    {
+      "name": "relics-1.21.1-0.10.7.8.jar",
+      "size": 2753166,
+      "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/relics-1.21.1-0.10.7.8.jar"
+    },
+    {
+      "name": "smallcolonies 1.21.1 v1.8.jar",
+      "size": 1861522,
+      "sha1": "42ec80306cdb989a02156a8fcbc59cefc8a2c6d5",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/smallcolonies%201.21.1%20v1.8.jar"
+    },
+    {
+      "name": "snowundertrees-1.21.1-1.5.1.jar",
+      "size": 30512,
+      "sha1": "5b6a85a2a833c6c6a5337e3fb720dba1a4d073aa",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/snowundertrees-1.21.1-1.5.1.jar"
+    },
+    {
+      "name": "sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
+      "size": 1144127,
+      "sha1": "abde67e05fb19fb90c8be31cd7f261f0f5689d63",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/sophisticatedbackpacks-1.21.1-3.25.71.1997.jar"
+    },
+    {
+      "name": "sophisticatedcore-1.21.1-1.4.76.2170.jar",
+      "size": 1672428,
+      "sha1": "e229d78ed5c4005e37bea66f557e432a9debf209",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/sophisticatedcore-1.21.1-1.4.76.2170.jar"
+    },
+    {
+      "name": "sophisticatedstorage-1.21.1-1.5.79.1991.jar",
+      "size": 1824278,
+      "sha1": "6eb3e179d14c106ff265eeb44d5dc2d0556962df",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/sophisticatedstorage-1.21.1-1.5.79.1991.jar"
+    },
+    {
+      "name": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "size": 202454,
+      "sha1": "31cf754f9e5f62d1ca257f297e5dce394024696c",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+    },
+    {
+      "name": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "size": 1131419,
+      "sha1": "5347db4d1150b132841bd124d1608f812bf8076f",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+    },
+    {
+      "name": "structurize-1.0.830-1.21.1.jar",
+      "size": 1064639,
+      "sha1": "6f59444e8d87f03227d038fc04684d94ba94e88b",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/structurize-1.0.830-1.21.1.jar"
+    },
+    {
+      "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "size": 207514,
+      "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+    },
+    {
+      "name": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+      "size": 558371,
+      "sha1": "84802fbe1645de8caf61ccb07db6cf451e614f68",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+    },
+    {
+      "name": "Terralith_1.21.x_v2.6.2.jar",
+      "size": 2814865,
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/Terralith_1.21.x_v2.6.2.jar"
+    },
+    {
+      "name": "toms_storage-1.21-2.3.2.jar",
+      "size": 848335,
+      "sha1": "f850f0718ed1c97d8050c790a4b4592f6bb99b21",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/toms_storage-1.21-2.3.2.jar"
+    },
+    {
+      "name": "towntalk-1.2.0.jar",
+      "size": 52301863,
+      "sha1": "6866d898938bdde1a17fadee16983c0c6071eac6",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/towntalk-1.2.0.jar"
+    },
+    {
+      "name": "trashcans-1.0.18c-neoforge-mc1.21.jar",
+      "size": 159808,
+      "sha1": "8e853e0784b01b36b4503ef5599be2724be74b07",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/trashcans-1.0.18c-neoforge-mc1.21.jar"
+    },
+    {
+      "name": "TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "size": 517750,
+      "sha1": "7bf7c1bde0f574e3fb9077115a2d4f59e534486c",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/TreeChop-1.21.1-neoforge-0.19.3.jar"
+    },
+    {
+      "name": "Twigs-1.21.1-3.1.2.jar",
+      "size": 2711016,
+      "sha1": "528c54b099afc36ae50c408ce9bfb78a28bdea8b",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/Twigs-1.21.1-3.1.2.jar"
+    },
+    {
+      "name": "t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",
+      "size": 3597353,
+      "sha1": "2390523f45dc5204e82cfb23ecf4f34dfcc25d1e",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/t_and_t-neoforge-fabric-1.13.9%2B1.21.1.jar"
+    },
+    {
+      "name": "warnnobility-neoforge-1.0.8-1.21.1-java21.jar",
+      "size": 345051,
+      "sha1": "5fb3eecf8cd6dde1f7f6fe1c1a78d019fbb4a18a",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/warnnobility-neoforge-1.0.8-1.21.1-java21.jar"
+    },
+    {
+      "name": "WarNTaxes-NeoForge-5.0.2.jar",
+      "size": 1271411,
+      "sha1": "4fbb8bd3d91271730c24e8b9d7ccae48e4c04f21",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/WarNTaxes-NeoForge-5.0.2.jar"
+    },
+    {
+      "name": "watut-neoforge-1.21.0-1.2.7.jar",
+      "size": 432269,
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/watut-neoforge-1.21.0-1.2.7.jar"
+    },
+    {
+      "name": "waystones-neoforge-1.21.1-21.1.37.jar",
+      "size": 1201931,
+      "sha1": "ffada9b8b212102d7bdd006f773ac0b29c5b815c",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/waystones-neoforge-1.21.1-21.1.37.jar"
+    },
+    {
+      "name": "[1.21.1] SecurityCraft v1.10.2.1.jar",
+      "size": 5193371,
+      "sha1": "8760079e80039f982f1a92d3ee9d60a2bcab3251",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar"
+    }
+  ]
+}
