@@ -1,5 +1,5 @@
 {
-  "version": 1784410921755,
+  "version": 1784453124097,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -236,6 +236,12 @@
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/fusion-1.3.7-neoforge-mc1.21.1.jar"
     },
     {
+      "name": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "size": 630584,
+      "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
+    },
+    {
       "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
       "size": 217081,
       "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d",
@@ -254,10 +260,10 @@
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
     },
     {
-      "name": "jei-1.21.1-neoforge-19.27.0.336.jar",
-      "size": 1529192,
-      "sha1": "d02c849e4e321e7b056a48e0242ec641560c2ab8",
-      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/jei-1.21.1-neoforge-19.27.0.336.jar"
+      "name": "jei-1.21.1-neoforge-19.39.0.368.jar",
+      "size": 1635411,
+      "sha1": "82a8ee647d81c40f149c444c5d37088f035cb773",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/jei-1.21.1-neoforge-19.39.0.368.jar"
     },
     {
       "name": "lithostitched-1.7.13-neoforge-21.1.jar",
@@ -444,6 +450,12 @@
       "size": 3597353,
       "sha1": "2390523f45dc5204e82cfb23ecf4f34dfcc25d1e",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/t_and_t-neoforge-fabric-1.13.9%2B1.21.1.jar"
+    },
+    {
+      "name": "UnionLib-1.21.1-12.0.18-NeoForge-all.jar",
+      "size": 732829,
+      "sha1": "12e93a3df3383a67a4df7101beb4cc70ff287960",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/UnionLib-1.21.1-12.0.18-NeoForge-all.jar"
     },
     {
       "name": "warnnobility-neoforge-1.0.8-1.21.1-java21.jar",
