@@ -1,5 +1,5 @@
 {
-  "version": 1784453124097,
+  "version": 1784455120792,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -206,6 +206,12 @@
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/EnderStorage-1.21.1-2.13.0.191.jar"
     },
     {
+      "name": "fancymenu_neoforge_3.9.8_MC_1.21.1.jar",
+      "size": 25505615,
+      "sha1": "1192ddd19dc2f7f59a361d64aeb5682b273b6063",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/fancymenu_neoforge_3.9.8_MC_1.21.1.jar"
+    },
+    {
       "name": "fantasy_armor-neoforge-1.2.4-1.21.1.jar",
       "size": 537069,
       "sha1": "2b103680ca80a1d617dcae74630c4df8e93d3c55",
@@ -266,6 +272,12 @@
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/jei-1.21.1-neoforge-19.39.0.368.jar"
     },
     {
+      "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "size": 618842,
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+    },
+    {
       "name": "lithostitched-1.7.13-neoforge-21.1.jar",
       "size": 852541,
       "sha1": "771a104dde071e16e67c7cd3149f7c3015375483",
@@ -288,6 +300,12 @@
       "size": 917024,
       "sha1": "a126b225fb23ecc3a00f8a2a5c00abd418a6077b",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/medieval_paintings-1.21.1-7.0.jar"
+    },
+    {
+      "name": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "size": 36096,
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/melody_neoforge_1.0.10_MC_1.21.jar"
     },
     {
       "name": "minecolonies-1.1.1319-1.21.1.jar",
@@ -486,6 +504,32 @@
       "size": 5193371,
       "sha1": "8760079e80039f982f1a92d3ee9d60a2bcab3251",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar"
+    }
+  ],
+  "files": [
+    {
+      "path": "config/fancymenu/assets/background.png",
+      "size": 5519213,
+      "sha1": "89680b56fa5d12aaaebc21ba5f6f6b4c6746415f",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/assets/background.png"
+    },
+    {
+      "path": "config/fancymenu/assets/logo.png",
+      "size": 22578,
+      "sha1": "e32bc762d589dee506037cf1504aa10a41b41c8f",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/assets/logo.png"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "size": 75,
+      "sha1": "e3167a06439dcccb376f00ead943cd01c90bd576",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/customizablemenus.txt"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "size": 21352,
+      "sha1": "2c048836b3251844f57414447718d7b9f9fbb45b",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/customization/title_screen_layout.txt"
     }
   ]
 }
