@@ -4,7 +4,7 @@
 	filename: "minecolonies"
 	group: ""
 	icon: { id: "minecolonies:blockhuttownhall" }
-	id: "BA98EAD0D93B503D"
+	id: "9D175A7D16C74785"
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -15,19 +15,19 @@
 				"Tout commence ici !"
 			]
 			icon: { id: "minecolonies:supplycampdeployer" }
-			id: "EFF4C4DE68A8BD70"
+			id: "81C143A7754CE98D"
 			shape: "pentagon"
 			size: 2.0d
 			rewards: [
 				{
-					id: "E9B85C9EBECEE945"
+					id: "C48462E3C16319A3"
 					type: "xp"
 					xp: 10
 				}
 			]
 			tasks: [
 				{
-					id: "59B7D17DE3B8718E"
+					id: "560A70D9EACE4E24"
 					item: { count: 1, id: "minecolonies:supplycampdeployer" }
 					type: "item"
 				}
@@ -38,25 +38,32 @@
 		}
 		{
 			dependencies: [
-				"EFF4C4DE68A8BD70"
+				"81C143A7754CE98D"
 			]
 			description: [
 				"Le cœur de ta colonie. Sans elle, pas de colons !"
 			]
 			icon: { id: "minecolonies:blockhuttownhall" }
-			id: "6B48866DF6B94D49"
+			id: "733D576E60E10D4C"
 			size: 1.5d
 			rewards: [
 				{
 					count: 1
-					id: "F751E9180FE38822"
+					id: "185201DA44524787"
 					item: { count: 1, id: "minecolonies:clipboard" }
 					type: "item"
+				}
+				{
+					command: "/eco give @p 50"
+					elevate_perms: true
+					id: "6207869C80ED0D0A"
+					title: "50 pièces"
+					type: "command"
 				}
 			]
 			tasks: [
 				{
-					id: "F6E37BA6953B5DFF"
+					id: "2595000288DA8218"
 					item: { count: 1, id: "minecolonies:blockhuttownhall" }
 					type: "item"
 				}
@@ -67,24 +74,24 @@
 		}
 		{
 			dependencies: [
-				"6B48866DF6B94D49"
+				"733D576E60E10D4C"
 			]
 			description: [
 				"Ton premier colon : il construira tous les autres bâtiments."
 			]
 			icon: { id: "minecolonies:blockhutbuilder" }
-			id: "81C143A7754CE98D"
+			id: "E43D7008D3E41AD5"
 			size: 1.5d
 			rewards: [
 				{
-					id: "C48462E3C16319A3"
+					id: "737FA1DB80FFE35E"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "560A70D9EACE4E24"
+					id: "49769540F1CB8BAB"
 					item: { count: 1, id: "minecolonies:blockhutbuilder" }
 					type: "item"
 				}
@@ -95,24 +102,24 @@
 		}
 		{
 			dependencies: [
-				"81C143A7754CE98D"
+				"E43D7008D3E41AD5"
 			]
 			description: [
 				"Le presse-papier et le parchemin de ressources t'aident à suivre les demandes."
 			]
 			icon: { id: "minecolonies:resourcescroll" }
-			id: "6207869C80ED0D0A"
+			id: "F9520E33D6BA76F2"
 			rewards: [
 				{
 					count: 1
-					id: "185201DA44524787"
+					id: "FBBE909B5773CA0F"
 					item: { count: 1, id: "minecolonies:resourcescroll" }
 					type: "item"
 				}
 			]
 			tasks: [
 				{
-					id: "2595000288DA8218"
+					id: "DF82555639C8E3C0"
 					item: { count: 1, id: "minecolonies:clipboard" }
 					type: "item"
 				}
@@ -123,23 +130,23 @@
 		}
 		{
 			dependencies: [
-				"81C143A7754CE98D"
+				"E43D7008D3E41AD5"
 			]
 			description: [
 				"Loge tes colons pour qu'ils se reposent."
 			]
 			icon: { id: "minecolonies:blockhutcitizen" }
-			id: "737FA1DB80FFE35E"
+			id: "CDB48C3BC67626B3"
 			rewards: [
 				{
-					id: "49769540F1CB8BAB"
+					id: "A889851F5A003974"
 					type: "xp"
 					xp: 10
 				}
 			]
 			tasks: [
 				{
-					id: "733D576E60E10D4C"
+					id: "8F2098834A0A77D9"
 					item: { count: 1, id: "minecolonies:blockhutcitizen" }
 					type: "item"
 				}
@@ -150,23 +157,23 @@
 		}
 		{
 			dependencies: [
-				"737FA1DB80FFE35E"
+				"CDB48C3BC67626B3"
 			]
 			description: [
 				"Recrute de nouveaux colons à la taverne."
 			]
 			icon: { id: "minecolonies:blockhuttavern" }
-			id: "FBBE909B5773CA0F"
+			id: "B10AA58461708268"
 			rewards: [
 				{
-					id: "DF82555639C8E3C0"
+					id: "B9770D034F679D1D"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "E43D7008D3E41AD5"
+					id: "7253C92E218E1BC6"
 					item: { count: 1, id: "minecolonies:blockhuttavern" }
 					type: "item"
 				}
@@ -177,23 +184,23 @@
 		}
 		{
 			dependencies: [
-				"81C143A7754CE98D"
+				"E43D7008D3E41AD5"
 			]
 			description: [
 				"Un colon affamé ne travaille pas. Nourris-les !"
 			]
 			icon: { id: "minecolonies:blockhutcook" }
-			id: "A889851F5A003974"
+			id: "553AC3862C878EA1"
 			rewards: [
 				{
-					id: "8F2098834A0A77D9"
+					id: "83202D927C5965DA"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "F9520E33D6BA76F2"
+					id: "7DF56995AF680597"
 					item: { count: 1, id: "minecolonies:blockhutcook" }
 					type: "item"
 				}
@@ -204,23 +211,23 @@
 		}
 		{
 			dependencies: [
-				"81C143A7754CE98D"
+				"E43D7008D3E41AD5"
 			]
 			description: [
 				"Stocke les ressources de la colonie."
 			]
 			icon: { id: "minecolonies:blockhutwarehouse" }
-			id: "B9770D034F679D1D"
+			id: "B8BCEA21C9BC292E"
 			rewards: [
 				{
-					id: "7253C92E218E1BC6"
+					id: "20FCD070F46D0ABB"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "CDB48C3BC67626B3"
+					id: "596019B6DAB2729C"
 					item: { count: 1, id: "minecolonies:blockhutwarehouse" }
 					type: "item"
 				}
@@ -231,23 +238,23 @@
 		}
 		{
 			dependencies: [
-				"B9770D034F679D1D"
+				"B8BCEA21C9BC292E"
 			]
 			description: [
 				"Il transporte les ressources entre les bâtiments."
 			]
 			icon: { id: "minecolonies:blockhutdeliveryman" }
-			id: "83202D927C5965DA"
+			id: "7C44B251159B1A1F"
 			rewards: [
 				{
-					id: "7DF56995AF680597"
+					id: "2C73A7867781FE10"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "B10AA58461708268"
+					id: "37D0C25765AE9065"
 					item: { count: 1, id: "minecolonies:blockhutdeliveryman" }
 					type: "item"
 				}
@@ -258,23 +265,23 @@
 		}
 		{
 			dependencies: [
-				"81C143A7754CE98D"
+				"E43D7008D3E41AD5"
 			]
 			description: [
 				"Protège ta colonie des monstres."
 			]
 			icon: { id: "minecolonies:blockhutguardtower" }
-			id: "20FCD070F46D0ABB"
+			id: "D6D263C95B9E57C3"
 			rewards: [
 				{
-					id: "596019B6DAB2729C"
+					id: "9A9AA1D3B5DD2669"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "553AC3862C878EA1"
+					id: "6922CFF21DAB79C2"
 					item: { count: 1, id: "minecolonies:blockhutguardtower" }
 					type: "item"
 				}
@@ -285,20 +292,20 @@
 		}
 		{
 			dependencies: [
-				"81C143A7754CE98D"
+				"E43D7008D3E41AD5"
 			]
 			icon: { id: "minecolonies:blockhutminer" }
-			id: "2C73A7867781FE10"
+			id: "C3A4C9E29FE1F6B8"
 			rewards: [
 				{
-					id: "37D0C25765AE9065"
+					id: "1B76F070B21414AD"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "B8BCEA21C9BC292E"
+					id: "E51588D59845AB96"
 					item: { count: 1, id: "minecolonies:blockhutminer" }
 					type: "item"
 				}
@@ -309,20 +316,20 @@
 		}
 		{
 			dependencies: [
-				"81C143A7754CE98D"
+				"E43D7008D3E41AD5"
 			]
 			icon: { id: "minecolonies:blockhutlumberjack" }
-			id: "9A9AA1D3B5DD2669"
+			id: "2354FEB318D85F31"
 			rewards: [
 				{
-					id: "6922CFF21DAB79C2"
+					id: "D56D650045E652AA"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "7C44B251159B1A1F"
+					id: "CA9A47C1649D27A7"
 					item: { count: 1, id: "minecolonies:blockhutlumberjack" }
 					type: "item"
 				}
@@ -333,20 +340,20 @@
 		}
 		{
 			dependencies: [
-				"A889851F5A003974"
+				"553AC3862C878EA1"
 			]
 			icon: { id: "minecolonies:blockhutfarmer" }
-			id: "1B76F070B21414AD"
+			id: "9B045042D87A42FE"
 			rewards: [
 				{
-					id: "E51588D59845AB96"
+					id: "1847D51BB75C2DCB"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "D6D263C95B9E57C3"
+					id: "6D333C1CA02E8BEC"
 					item: { count: 1, id: "minecolonies:blockhutfarmer" }
 					type: "item"
 				}
@@ -357,20 +364,20 @@
 		}
 		{
 			dependencies: [
-				"A889851F5A003974"
+				"553AC3862C878EA1"
 			]
 			icon: { id: "minecolonies:blockhutfisherman" }
-			id: "D56D650045E652AA"
+			id: "50BBA60240A24E2F"
 			rewards: [
 				{
-					id: "CA9A47C1649D27A7"
+					id: "D4C9C27D95290C60"
 					type: "xp"
 					xp: 10
 				}
 			]
 			tasks: [
 				{
-					id: "C3A4C9E29FE1F6B8"
+					id: "1E7AEA5611F749F5"
 					item: { count: 1, id: "minecolonies:blockhutfisherman" }
 					type: "item"
 				}
@@ -381,20 +388,20 @@
 		}
 		{
 			dependencies: [
-				"9A9AA1D3B5DD2669"
+				"2354FEB318D85F31"
 			]
 			icon: { id: "minecolonies:blockhutflorist" }
-			id: "1847D51BB75C2DCB"
+			id: "EA86C86B20C9AC14"
 			rewards: [
 				{
-					id: "6D333C1CA02E8BEC"
+					id: "8217AA81E28A58F9"
 					type: "xp"
 					xp: 10
 				}
 			]
 			tasks: [
 				{
-					id: "2354FEB318D85F31"
+					id: "9AC81FE54E139092"
 					item: { count: 1, id: "minecolonies:blockhutflorist" }
 					type: "item"
 				}
@@ -405,23 +412,23 @@
 		}
 		{
 			dependencies: [
-				"9A9AA1D3B5DD2669"
+				"2354FEB318D85F31"
 			]
 			description: [
 				"Fabrique planches, outils et objets en bois."
 			]
 			icon: { id: "minecolonies:blockhutsawmill" }
-			id: "D4C9C27D95290C60"
+			id: "BA98EAD0D93B503D"
 			rewards: [
 				{
-					id: "1E7AEA5611F749F5"
+					id: "7C549BB5D8BD8F66"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "9B045042D87A42FE"
+					id: "ED041F92DEDCACD3"
 					item: { count: 1, id: "minecolonies:blockhutsawmill" }
 					type: "item"
 				}
@@ -432,20 +439,20 @@
 		}
 		{
 			dependencies: [
-				"2C73A7867781FE10"
+				"C3A4C9E29FE1F6B8"
 			]
 			icon: { id: "minecolonies:blockhutstonemason" }
-			id: "8217AA81E28A58F9"
+			id: "C6BD4C7D9B90D37A"
 			rewards: [
 				{
-					id: "9AC81FE54E139092"
+					id: "7F385B006002ADB7"
 					type: "xp"
 					xp: 15
 				}
 			]
 			tasks: [
 				{
-					id: "50BBA60240A24E2F"
+					id: "7CA4A80A6323DF08"
 					item: { count: 1, id: "minecolonies:blockhutstonemason" }
 					type: "item"
 				}
@@ -456,25 +463,32 @@
 		}
 		{
 			dependencies: [
-				"D4C9C27D95290C60"
-				"8217AA81E28A58F9"
+				"BA98EAD0D93B503D"
+				"C6BD4C7D9B90D37A"
 			]
 			description: [
 				"Améliore la Hutte du Bâtisseur au niveau 3 pour débloquer plus de bâtiments."
 			]
 			icon: { id: "minecolonies:blockhutbuilder" }
-			id: "7C549BB5D8BD8F66"
+			id: "C5BC70FE110730CE"
 			shape: "diamond"
 			rewards: [
 				{
-					id: "ED041F92DEDCACD3"
+					id: "9A462872959A593C"
 					type: "xp"
 					xp: 30
+				}
+				{
+					command: "/eco give @p 150"
+					elevate_perms: true
+					id: "D4B134BA95B9F4DB"
+					title: "150 pièces"
+					type: "command"
 				}
 			]
 			tasks: [
 				{
-					id: "EA86C86B20C9AC14"
+					id: "F7283C4576C833C1"
 					count: 2L
 					item: { count: 1, id: "minecolonies:blockhutbuilder" }
 					type: "item"

@@ -1,5 +1,5 @@
 {
-  "version": 1784467233156,
+  "version": 1784468868440,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -198,6 +198,12 @@
       "size": 396512,
       "sha1": "9b1354fb4fbd6db577d24912ae1c58745655758b",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/easy_factions-neoforge-1.1.0-1.21.1-java21.jar"
+    },
+    {
+      "name": "ecomod-1.21.1-1.0.0.jar",
+      "size": 116480,
+      "sha1": "33e7d6b1d87de21cb4a63bde87bc85b523d9bb88",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ecomod-1.21.1-1.0.0.jar"
     },
     {
       "name": "EnderStorage-1.21.1-2.13.0.191.jar",
@@ -557,26 +563,26 @@
     },
     {
       "path": "config/ftbquests/quests/chapters/bien_debuter.snbt",
-      "size": 6560,
-      "sha1": "56bcb913ce4c16962ce2a3cc081efbb805ec37ff",
+      "size": 6848,
+      "sha1": "49ade0af2d77bfc1407ca8ef93af3b85be422e13",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/bien_debuter.snbt"
     },
     {
       "path": "config/ftbquests/quests/chapters/create.snbt",
-      "size": 17142,
-      "sha1": "2c877230ef6b64ba15ead0dd74ef9b80e22c362f",
+      "size": 17718,
+      "sha1": "de0eec9953667f73800b76c73aec9d69402c8a2b",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/create.snbt"
     },
     {
       "path": "config/ftbquests/quests/chapters/minecolonies.snbt",
-      "size": 8691,
-      "sha1": "92b29bd675db1a196438487c2673b0ef234b80d9",
+      "size": 8979,
+      "sha1": "20c676c733f97fcce1a188443878b9d62cd80c63",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/minecolonies.snbt"
     },
     {
       "path": "config/ftbquests/quests/chapters/minecolonies_avance.snbt",
-      "size": 17066,
-      "sha1": "70b8f10cf3c8b1b7300ac21dd6300957af680ebb",
+      "size": 17646,
+      "sha1": "5e73141967d2ea86e53f33cf4ecfb4906ff12f1f",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/minecolonies_avance.snbt"
     },
     {

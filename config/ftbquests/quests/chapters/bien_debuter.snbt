@@ -4,7 +4,7 @@
 	filename: "bien_debuter"
 	group: ""
 	icon: { id: "minecraft:crafting_table" }
-	id: "FDB739FFD16E43A4"
+	id: "F78231121267D176"
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -316,13 +316,20 @@
 				"81DC3A61528F0D7D"
 			]
 			icon: { id: "minecraft:diamond" }
-			id: "3596D7E2724D4501"
+			id: "200951A3D9CD217C"
 			shape: "diamond"
 			rewards: [
 				{
 					id: "148943805ADE2CF7"
 					type: "xp"
 					xp: 25
+				}
+				{
+					command: "/eco give @p 50"
+					elevate_perms: true
+					id: "3596D7E2724D4501"
+					title: "50 pièces"
+					type: "command"
 				}
 			]
 			tasks: [
@@ -338,27 +345,34 @@
 		}
 		{
 			dependencies: [
-				"3596D7E2724D4501"
+				"200951A3D9CD217C"
 			]
 			icon: { id: "minecraft:enchanting_table" }
-			id: "CA6EE36EBBEAECC5"
+			id: "5ABE9B0D2DBEE1A2"
 			rewards: [
 				{
 					count: 8
-					id: "8364DB7A513EE81B"
+					id: "39C53D919052B30E"
 					item: { count: 1, id: "minecraft:lapis_lazuli" }
 					type: "item"
 				}
 				{
 					count: 1
-					id: "39C53D919052B30E"
+					id: "CA6EE36EBBEAECC5"
 					item: { count: 1, id: "minecraft:book" }
 					type: "item"
+				}
+				{
+					command: "/eco give @p 100"
+					elevate_perms: true
+					id: "7FE0E5D6D5D1DAF0"
+					title: "100 pièces"
+					type: "command"
 				}
 			]
 			tasks: [
 				{
-					id: "200951A3D9CD217C"
+					id: "8364DB7A513EE81B"
 					item: { count: 1, id: "minecraft:enchanting_table" }
 					type: "item"
 				}
@@ -372,17 +386,17 @@
 				"BA09C177D0BD2C54"
 			]
 			icon: { id: "minecraft:compass" }
-			id: "CC90A3111F2E88C9"
+			id: "F6D06B7289CBC123"
 			rewards: [
 				{
-					id: "5ABE9B0D2DBEE1A2"
+					id: "FDB739FFD16E43A4"
 					type: "xp"
 					xp: 10
 				}
 			]
 			tasks: [
 				{
-					id: "7FE0E5D6D5D1DAF0"
+					id: "CC90A3111F2E88C9"
 					item: { count: 1, id: "minecraft:compass" }
 					type: "item"
 				}
