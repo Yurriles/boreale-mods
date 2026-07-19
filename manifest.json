@@ -1,5 +1,5 @@
 {
-  "version": 1784455120792,
+  "version": 1784459202631,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -527,9 +527,15 @@
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "size": 21352,
-      "sha1": "2c048836b3251844f57414447718d7b9f9fbb45b",
+      "size": 25149,
+      "sha1": "5012e0df46f54bdac73e7cf0317dc07b8b7214bb",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/customization/title_screen_layout.txt"
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "size": 256,
+      "sha1": "87fa19fb3dab372bfad7a706399d5a8247c6d6e5",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/options.txt"
     }
   ]
 }
