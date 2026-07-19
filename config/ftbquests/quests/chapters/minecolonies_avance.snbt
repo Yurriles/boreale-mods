@@ -1,0 +1,977 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "minecolonies_avance"
+	group: ""
+	icon: { id: "minecolonies:blockhutuniversity" }
+	id: "54C663F78D979694"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Ta colonie prospère : place ces bâtiments spécialisés pour une grande cité."
+			]
+			icon: { id: "minecolonies:blockhutuniversity" }
+			id: "C6BD4C7D9B90D37A"
+			shape: "hexagon"
+			size: 1.75d
+			rewards: [
+				{
+					id: "7F385B006002ADB7"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "7CA4A80A6323DF08"
+					type: "checkmark"
+				}
+			]
+			title: "Développer la cité"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"C6BD4C7D9B90D37A"
+			]
+			description: [
+				"Débloque l'arbre de recherche pour améliorer tes colons."
+			]
+			icon: { id: "minecolonies:blockhutuniversity" }
+			id: "D4B134BA95B9F4DB"
+			size: 1.5d
+			rewards: [
+				{
+					id: "9A462872959A593C"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "F7283C4576C833C1"
+					item: { count: 1, id: "minecolonies:blockhutuniversity" }
+					type: "item"
+				}
+			]
+			title: "L'Université"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"D4B134BA95B9F4DB"
+			]
+			description: [
+				"Les colons y étudient pour gagner des niveaux."
+			]
+			icon: { id: "minecolonies:blockhutlibrary" }
+			id: "5EDD3361F1530EB0"
+			rewards: [
+				{
+					id: "9D175A7D16C74785"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "C5BC70FE110730CE"
+					item: { count: 1, id: "minecolonies:blockhutlibrary" }
+					type: "item"
+				}
+			]
+			title: "La Bibliothèque"
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"D4B134BA95B9F4DB"
+			]
+			icon: { id: "minecolonies:blockhutschool" }
+			id: "10074C969CAB0F89"
+			rewards: [
+				{
+					id: "FD54CE1F2E8FBB62"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "34548D1263BA663F"
+					item: { count: 1, id: "minecolonies:blockhutschool" }
+					type: "item"
+				}
+			]
+			title: "L'École"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"C6BD4C7D9B90D37A"
+			]
+			description: [
+				"Soigne les colons malades ou blessés."
+			]
+			icon: { id: "minecolonies:blockhuthospital" }
+			id: "8EDE1CB4E9064FCD"
+			rewards: [
+				{
+					id: "1F7DC654EC7225E3"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "65B1F0F314EB3364"
+					item: { count: 1, id: "minecolonies:blockhuthospital" }
+					type: "item"
+				}
+			]
+			title: "L'Hôpital"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"8EDE1CB4E9064FCD"
+			]
+			icon: { id: "minecolonies:blockhutgraveyard" }
+			id: "4249B8858095E84A"
+			rewards: [
+				{
+					id: "1401B8C33FE997C7"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "7DD0324C5D6B3B58"
+					item: { count: 1, id: "minecolonies:blockhutgraveyard" }
+					type: "item"
+				}
+			]
+			title: "Le Cimetière"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"C6BD4C7D9B90D37A"
+			]
+			description: [
+				"Fond les minerais en lingots."
+			]
+			icon: { id: "minecolonies:blockhutsmeltery" }
+			id: "FFB9A35A30E75FEB"
+			rewards: [
+				{
+					id: "7D266FF1E67ADA8C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "C08FDAF91B100C51"
+					item: { count: 1, id: "minecolonies:blockhutsmeltery" }
+					type: "item"
+				}
+			]
+			title: "La Fonderie"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"FFB9A35A30E75FEB"
+			]
+			description: [
+				"Fabrique outils et armures en métal."
+			]
+			icon: { id: "minecolonies:blockhutblacksmith" }
+			id: "4113488625D50500"
+			rewards: [
+				{
+					id: "4A880188E2678915"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "3B26F00FF06FF29E"
+					item: { count: 1, id: "minecolonies:blockhutblacksmith" }
+					type: "item"
+				}
+			]
+			title: "Le Forgeron"
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"FFB9A35A30E75FEB"
+			]
+			description: [
+				"Fabrique les mécanismes (redstone, pistons...)."
+			]
+			icon: { id: "minecolonies:blockhutmechanic" }
+			id: "1423FAF165184A19"
+			rewards: [
+				{
+					id: "AC72B8BDB2FCFA32"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "62E8EB503454624F"
+					item: { count: 1, id: "minecolonies:blockhutmechanic" }
+					type: "item"
+				}
+			]
+			title: "Le Mécanicien"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"FFB9A35A30E75FEB"
+			]
+			icon: { id: "minecolonies:blockhutcrusher" }
+			id: "C20A540811E25306"
+			rewards: [
+				{
+					id: "EA3EC1C56EDFC2F3"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "2627409C55FBEEB4"
+					item: { count: 1, id: "minecolonies:blockhutcrusher" }
+					type: "item"
+				}
+			]
+			title: "Le Broyeur"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"C20A540811E25306"
+			]
+			description: [
+				"Tamise le sable et le gravier pour trouver des trésors."
+			]
+			icon: { id: "minecolonies:blockhutsifter" }
+			id: "5284699C54E2E5D7"
+			rewards: [
+				{
+					count: 1
+					id: "9A8AD70B242D0BA8"
+					item: { count: 1, id: "minecolonies:sifter_mesh_string" }
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "CE582B377DDE135D"
+					item: { count: 1, id: "minecolonies:blockhutsifter" }
+					type: "item"
+				}
+			]
+			title: "Le Tamiseur"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"FFB9A35A30E75FEB"
+			]
+			icon: { id: "minecolonies:blockhutstonesmeltery" }
+			id: "553DDA2D55950FDC"
+			rewards: [
+				{
+					id: "5D6A1A6A56A8E8E1"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "F6DBB12D0D72911A"
+					item: { count: 1, id: "minecolonies:blockhutstonesmeltery" }
+					type: "item"
+				}
+			]
+			title: "Le Four à Pierre"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"553DDA2D55950FDC"
+			]
+			icon: { id: "minecolonies:blockhutconcretemixer" }
+			id: "865A2DD5A3610EA5"
+			rewards: [
+				{
+					id: "74D030B5DD01886E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "F3D9DD0F80856EFB"
+					item: { count: 1, id: "minecolonies:blockhutconcretemixer" }
+					type: "item"
+				}
+			]
+			title: "Le Bétonnier"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"553DDA2D55950FDC"
+			]
+			icon: { id: "minecolonies:blockhutglassblower" }
+			id: "4A12810BCC784D02"
+			rewards: [
+				{
+					id: "3E67E59BA221425F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "1CAF44F157C3EF50"
+					item: { count: 1, id: "minecolonies:blockhutglassblower" }
+					type: "item"
+				}
+			]
+			title: "Le Verrier"
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"FFB9A35A30E75FEB"
+			]
+			icon: { id: "minecolonies:blockhutdyer" }
+			id: "11E5677AAEE68403"
+			rewards: [
+				{
+					id: "5D10F5BFF060DE04"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "8C0A2F3D00EB08A9"
+					item: { count: 1, id: "minecolonies:blockhutdyer" }
+					type: "item"
+				}
+			]
+			title: "Le Teinturier"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"11E5677AAEE68403"
+			]
+			icon: { id: "minecolonies:blockhutfletcher" }
+			id: "DD30F05D801E4FF8"
+			rewards: [
+				{
+					id: "7456F01A3C6B9AED"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "EF4DD4B6CB2932D6"
+					item: { count: 1, id: "minecolonies:blockhutfletcher" }
+					type: "item"
+				}
+			]
+			title: "L'Archer (Arcs)"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"C6BD4C7D9B90D37A"
+			]
+			icon: { id: "minecolonies:blockhutbaker" }
+			id: "75A0DDEC86CBC971"
+			rewards: [
+				{
+					id: "9F6F6CEE3FE3CDEA"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "DC571E77B1BF97E7"
+					item: { count: 1, id: "minecolonies:blockhutbaker" }
+					type: "item"
+				}
+			]
+			title: "La Boulangerie"
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"75A0DDEC86CBC971"
+			]
+			icon: { id: "minecolonies:blockhutkitchen" }
+			id: "B3862385F648F23E"
+			rewards: [
+				{
+					id: "B8916A90E275220B"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "74A6E6388CEDF92C"
+					item: { count: 1, id: "minecolonies:blockhutkitchen" }
+					type: "item"
+				}
+			]
+			title: "La Cuisine"
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"75A0DDEC86CBC971"
+			]
+			icon: { id: "minecolonies:blockhutcowboy" }
+			id: "A9500336395EB3D2"
+			rewards: [
+				{
+					id: "C1EBC15B8774CDA0"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "67A2DC7ED87CD835"
+					item: { count: 1, id: "minecolonies:blockhutcowboy" }
+					type: "item"
+				}
+			]
+			title: "Le Vacher"
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"A9500336395EB3D2"
+			]
+			icon: { id: "minecolonies:blockhutshepherd" }
+			id: "FCCBD97663876913"
+			rewards: [
+				{
+					id: "DB2B64AEFFBF0154"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "EEC137E8097C4B39"
+					item: { count: 1, id: "minecolonies:blockhutshepherd" }
+					type: "item"
+				}
+			]
+			title: "Le Berger"
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"A9500336395EB3D2"
+			]
+			icon: { id: "minecolonies:blockhutswineherder" }
+			id: "9C09B3A4BD340848"
+			rewards: [
+				{
+					id: "F92CC2276197E67D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "B22726076F6466A6"
+					item: { count: 1, id: "minecolonies:blockhutswineherder" }
+					type: "item"
+				}
+			]
+			title: "L'Éleveur de Porcs"
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"9C09B3A4BD340848"
+			]
+			icon: { id: "minecolonies:blockhutchickenherder" }
+			id: "8E9EE3036DCA967C"
+			rewards: [
+				{
+					id: "EC7D03E4A4F1AE01"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "9D96A486CAE69EBA"
+					item: { count: 1, id: "minecolonies:blockhutchickenherder" }
+					type: "item"
+				}
+			]
+			title: "Le Poulailler"
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"9C09B3A4BD340848"
+			]
+			icon: { id: "minecolonies:blockhutrabbithutch" }
+			id: "5AD0DD42E0C3E5C5"
+			rewards: [
+				{
+					id: "15F7D69AE513300E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "BF6FC5F32AD7791B"
+					item: { count: 1, id: "minecolonies:blockhutrabbithutch" }
+					type: "item"
+				}
+			]
+			title: "Le Clapier"
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"75A0DDEC86CBC971"
+			]
+			description: [
+				"Transforme les déchets en compost pour les champs."
+			]
+			icon: { id: "minecolonies:blockhutcomposter" }
+			id: "5C2E0D94554D2EA2"
+			rewards: [
+				{
+					count: 16
+					id: "9B6431D19757AE7F"
+					item: { count: 1, id: "minecolonies:compost" }
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "EFEBAF9DE07C9FF0"
+					item: { count: 1, id: "minecolonies:blockhutcomposter" }
+					type: "item"
+				}
+			]
+			title: "Le Composteur"
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"A9500336395EB3D2"
+			]
+			icon: { id: "minecolonies:blockhutstable" }
+			id: "DE77DF54C2037223"
+			rewards: [
+				{
+					id: "35F72D87FEFB58A4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "11C89F217C6511C9"
+					item: { count: 1, id: "minecolonies:blockhutstable" }
+					type: "item"
+				}
+			]
+			title: "L'Écurie"
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"5C2E0D94554D2EA2"
+			]
+			icon: { id: "minecolonies:blockhutbeekeeper" }
+			id: "C62EB616FAA33498"
+			rewards: [
+				{
+					id: "1119DED7528BF60D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "554827AF9A00EE76"
+					item: { count: 1, id: "minecolonies:blockhutbeekeeper" }
+					type: "item"
+				}
+			]
+			title: "L'Apiculteur"
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"C6BD4C7D9B90D37A"
+			]
+			description: [
+				"Le bâtiment de défense ultime."
+			]
+			icon: { id: "minecolonies:blockhutbarracks" }
+			id: "6E8B6AA7D6D39691"
+			size: 1.25d
+			rewards: [
+				{
+					id: "A0545CEAE6B8038A"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "65425732B9A72807"
+					item: { count: 1, id: "minecolonies:blockhutbarracks" }
+					type: "item"
+				}
+			]
+			title: "La Caserne"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"6E8B6AA7D6D39691"
+			]
+			icon: { id: "minecolonies:blockhutcombatacademy" }
+			id: "A5F0B513AB6D41DE"
+			rewards: [
+				{
+					id: "84B2A08AB40D742B"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "7E7C03E960AFE7CC"
+					item: { count: 1, id: "minecolonies:blockhutcombatacademy" }
+					type: "item"
+				}
+			]
+			title: "Académie de Combat"
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"6E8B6AA7D6D39691"
+			]
+			icon: { id: "minecolonies:blockhutarchery" }
+			id: "29311484E920BD72"
+			rewards: [
+				{
+					id: "305C5020B1633A8F"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "50BB742A8B7F3755"
+					item: { count: 1, id: "minecolonies:blockhutarchery" }
+					type: "item"
+				}
+			]
+			title: "Le Stand de Tir"
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"5EDD3361F1530EB0"
+			]
+			icon: { id: "minecolonies:blockhutenchanter" }
+			id: "64956978A7ABCA46"
+			rewards: [
+				{
+					id: "523B58C0183AE3F4"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "61C963D94B7E5C59"
+					item: { count: 1, id: "minecolonies:blockhutenchanter" }
+					type: "item"
+				}
+			]
+			title: "L'Enchanteur"
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"5EDD3361F1530EB0"
+			]
+			icon: { id: "minecolonies:blockhutalchemist" }
+			id: "6D9DD61BE5940617"
+			rewards: [
+				{
+					id: "9C235B3D7AE0D4E8"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "5CBFBE3A2CB0C99D"
+					item: { count: 1, id: "minecolonies:blockhutalchemist" }
+					type: "item"
+				}
+			]
+			title: "L'Alchimiste"
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"64956978A7ABCA46"
+			]
+			icon: { id: "minecolonies:blockhutmysticalsite" }
+			id: "92024AF06EB8133B"
+			rewards: [
+				{
+					id: "1B9D1674A562ED1C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "D27A844C20D4FC5A"
+					item: { count: 1, id: "minecolonies:blockhutmysticalsite" }
+					type: "item"
+				}
+			]
+			title: "Le Site Mystique"
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"D4B134BA95B9F4DB"
+			]
+			description: [
+				"Cultive canne à sucre, bambou, cactus..."
+			]
+			icon: { id: "minecolonies:blockhutplantation" }
+			id: "2EEFD48375252090"
+			rewards: [
+				{
+					id: "CE4C61F4A837CCE5"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "26C3A2E774A427AE"
+					item: { count: 1, id: "minecolonies:blockhutplantation" }
+					type: "item"
+				}
+			]
+			title: "La Plantation"
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"1423FAF165184A19"
+			]
+			description: [
+				"Envoie un colon miner dans le Nether. Dangereux !"
+			]
+			icon: { id: "minecolonies:blockhutnetherworker" }
+			id: "E7267DC4ECE12AE9"
+			shape: "diamond"
+			rewards: [
+				{
+					id: "E015DFDEFAF66042"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [
+				{
+					id: "CE053B4EADE5AA9F"
+					item: { count: 1, id: "minecolonies:blockhutnetherworker" }
+					type: "item"
+				}
+			]
+			title: "Le Mineur du Nether"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"C6BD4C7D9B90D37A"
+			]
+			description: [
+				"Domum Ornamentum : crée des blocs décoratifs et matériaux de construction."
+			]
+			icon: { id: "domum_ornamentum:architectscutter" }
+			id: "64DE0A1D8651FA16"
+			rewards: [
+				{
+					count: 16
+					id: "B16B2CC528D0F043"
+					item: { count: 1, id: "domum_ornamentum:cream_bricks" }
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "64529F6074E2A344"
+					item: { count: 1, id: "domum_ornamentum:architectscutter" }
+					type: "item"
+				}
+			]
+			title: "Cutter d'Architecte"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"64DE0A1D8651FA16"
+			]
+			icon: { id: "domum_ornamentum:beige_bricks" }
+			id: "B4AEFF342BFA892A"
+			rewards: [
+				{
+					count: 16
+					id: "97FCF7C67B284827"
+					item: { count: 1, id: "domum_ornamentum:beige_stone_bricks" }
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2381C266F3A1E938"
+					item: { count: 1, id: "domum_ornamentum:beige_bricks" }
+					type: "item"
+				}
+			]
+			title: "Briques décoratives"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"D4B134BA95B9F4DB"
+			]
+			description: [
+				"WarNobility : gravis les rangs de la noblesse."
+			]
+			icon: { id: "warnnobility:chancery_table" }
+			id: "5ECC7C4596B6A675"
+			rewards: [
+				{
+					id: "DFEB620D6544E17E"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "1EA7BE55A2E8A66C"
+					item: { count: 1, id: "warnnobility:chancery_table" }
+					type: "item"
+				}
+			]
+			title: "Table de Chancellerie"
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"5ECC7C4596B6A675"
+			]
+			description: [
+				"Le symbole ultime du pouvoir sur ta colonie !"
+			]
+			icon: { id: "warnnobility:crown" }
+			id: "4B546567EAE67D79"
+			shape: "pentagon"
+			size: 1.5d
+			rewards: [
+				{
+					id: "626CC4F88FCFFEAF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [
+				{
+					id: "A4A491C9B02FCEE0"
+					item: { count: 1, id: "warnnobility:crown" }
+					type: "item"
+				}
+			]
+			title: "La Couronne"
+			x: 6.0d
+			y: -6.0d
+		}
+	]
+	title: "MineColonies : Cité & Métiers"
+}

@@ -1,0 +1,489 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "minecolonies"
+	group: ""
+	icon: { id: "minecolonies:blockhuttownhall" }
+	id: "BA98EAD0D93B503D"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Place un Camp de Ravitaillement pour démarrer ta colonie."
+				""
+				"Tout commence ici !"
+			]
+			icon: { id: "minecolonies:supplycampdeployer" }
+			id: "EFF4C4DE68A8BD70"
+			shape: "pentagon"
+			size: 2.0d
+			rewards: [
+				{
+					id: "E9B85C9EBECEE945"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "59B7D17DE3B8718E"
+					item: { count: 1, id: "minecolonies:supplycampdeployer" }
+					type: "item"
+				}
+			]
+			title: "Fonder ta colonie"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"EFF4C4DE68A8BD70"
+			]
+			description: [
+				"Le cœur de ta colonie. Sans elle, pas de colons !"
+			]
+			icon: { id: "minecolonies:blockhuttownhall" }
+			id: "6B48866DF6B94D49"
+			size: 1.5d
+			rewards: [
+				{
+					count: 1
+					id: "F751E9180FE38822"
+					item: { count: 1, id: "minecolonies:clipboard" }
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "F6E37BA6953B5DFF"
+					item: { count: 1, id: "minecolonies:blockhuttownhall" }
+					type: "item"
+				}
+			]
+			title: "La Mairie"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6B48866DF6B94D49"
+			]
+			description: [
+				"Ton premier colon : il construira tous les autres bâtiments."
+			]
+			icon: { id: "minecolonies:blockhutbuilder" }
+			id: "81C143A7754CE98D"
+			size: 1.5d
+			rewards: [
+				{
+					id: "C48462E3C16319A3"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "560A70D9EACE4E24"
+					item: { count: 1, id: "minecolonies:blockhutbuilder" }
+					type: "item"
+				}
+			]
+			title: "La Hutte du Bâtisseur"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"81C143A7754CE98D"
+			]
+			description: [
+				"Le presse-papier et le parchemin de ressources t'aident à suivre les demandes."
+			]
+			icon: { id: "minecolonies:resourcescroll" }
+			id: "6207869C80ED0D0A"
+			rewards: [
+				{
+					count: 1
+					id: "185201DA44524787"
+					item: { count: 1, id: "minecolonies:resourcescroll" }
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2595000288DA8218"
+					item: { count: 1, id: "minecolonies:clipboard" }
+					type: "item"
+				}
+			]
+			title: "Outils du colon"
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"81C143A7754CE98D"
+			]
+			description: [
+				"Loge tes colons pour qu'ils se reposent."
+			]
+			icon: { id: "minecolonies:blockhutcitizen" }
+			id: "737FA1DB80FFE35E"
+			rewards: [
+				{
+					id: "49769540F1CB8BAB"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "733D576E60E10D4C"
+					item: { count: 1, id: "minecolonies:blockhutcitizen" }
+					type: "item"
+				}
+			]
+			title: "Une Résidence"
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"737FA1DB80FFE35E"
+			]
+			description: [
+				"Recrute de nouveaux colons à la taverne."
+			]
+			icon: { id: "minecolonies:blockhuttavern" }
+			id: "FBBE909B5773CA0F"
+			rewards: [
+				{
+					id: "DF82555639C8E3C0"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "E43D7008D3E41AD5"
+					item: { count: 1, id: "minecolonies:blockhuttavern" }
+					type: "item"
+				}
+			]
+			title: "La Taverne"
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"81C143A7754CE98D"
+			]
+			description: [
+				"Un colon affamé ne travaille pas. Nourris-les !"
+			]
+			icon: { id: "minecolonies:blockhutcook" }
+			id: "A889851F5A003974"
+			rewards: [
+				{
+					id: "8F2098834A0A77D9"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "F9520E33D6BA76F2"
+					item: { count: 1, id: "minecolonies:blockhutcook" }
+					type: "item"
+				}
+			]
+			title: "Le Restaurant"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"81C143A7754CE98D"
+			]
+			description: [
+				"Stocke les ressources de la colonie."
+			]
+			icon: { id: "minecolonies:blockhutwarehouse" }
+			id: "B9770D034F679D1D"
+			rewards: [
+				{
+					id: "7253C92E218E1BC6"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "CDB48C3BC67626B3"
+					item: { count: 1, id: "minecolonies:blockhutwarehouse" }
+					type: "item"
+				}
+			]
+			title: "L'Entrepôt"
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"B9770D034F679D1D"
+			]
+			description: [
+				"Il transporte les ressources entre les bâtiments."
+			]
+			icon: { id: "minecolonies:blockhutdeliveryman" }
+			id: "83202D927C5965DA"
+			rewards: [
+				{
+					id: "7DF56995AF680597"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "B10AA58461708268"
+					item: { count: 1, id: "minecolonies:blockhutdeliveryman" }
+					type: "item"
+				}
+			]
+			title: "Le Livreur"
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"81C143A7754CE98D"
+			]
+			description: [
+				"Protège ta colonie des monstres."
+			]
+			icon: { id: "minecolonies:blockhutguardtower" }
+			id: "20FCD070F46D0ABB"
+			rewards: [
+				{
+					id: "596019B6DAB2729C"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "553AC3862C878EA1"
+					item: { count: 1, id: "minecolonies:blockhutguardtower" }
+					type: "item"
+				}
+			]
+			title: "Tour de Garde"
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"81C143A7754CE98D"
+			]
+			icon: { id: "minecolonies:blockhutminer" }
+			id: "2C73A7867781FE10"
+			rewards: [
+				{
+					id: "37D0C25765AE9065"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "B8BCEA21C9BC292E"
+					item: { count: 1, id: "minecolonies:blockhutminer" }
+					type: "item"
+				}
+			]
+			title: "Le Mineur"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"81C143A7754CE98D"
+			]
+			icon: { id: "minecolonies:blockhutlumberjack" }
+			id: "9A9AA1D3B5DD2669"
+			rewards: [
+				{
+					id: "6922CFF21DAB79C2"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "7C44B251159B1A1F"
+					item: { count: 1, id: "minecolonies:blockhutlumberjack" }
+					type: "item"
+				}
+			]
+			title: "Le Bûcheron"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"A889851F5A003974"
+			]
+			icon: { id: "minecolonies:blockhutfarmer" }
+			id: "1B76F070B21414AD"
+			rewards: [
+				{
+					id: "E51588D59845AB96"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "D6D263C95B9E57C3"
+					item: { count: 1, id: "minecolonies:blockhutfarmer" }
+					type: "item"
+				}
+			]
+			title: "Le Fermier"
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"A889851F5A003974"
+			]
+			icon: { id: "minecolonies:blockhutfisherman" }
+			id: "D56D650045E652AA"
+			rewards: [
+				{
+					id: "CA9A47C1649D27A7"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "C3A4C9E29FE1F6B8"
+					item: { count: 1, id: "minecolonies:blockhutfisherman" }
+					type: "item"
+				}
+			]
+			title: "Le Pêcheur"
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"9A9AA1D3B5DD2669"
+			]
+			icon: { id: "minecolonies:blockhutflorist" }
+			id: "1847D51BB75C2DCB"
+			rewards: [
+				{
+					id: "6D333C1CA02E8BEC"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "2354FEB318D85F31"
+					item: { count: 1, id: "minecolonies:blockhutflorist" }
+					type: "item"
+				}
+			]
+			title: "Le Fleuriste"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"9A9AA1D3B5DD2669"
+			]
+			description: [
+				"Fabrique planches, outils et objets en bois."
+			]
+			icon: { id: "minecolonies:blockhutsawmill" }
+			id: "D4C9C27D95290C60"
+			rewards: [
+				{
+					id: "1E7AEA5611F749F5"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "9B045042D87A42FE"
+					item: { count: 1, id: "minecolonies:blockhutsawmill" }
+					type: "item"
+				}
+			]
+			title: "La Scierie"
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"2C73A7867781FE10"
+			]
+			icon: { id: "minecolonies:blockhutstonemason" }
+			id: "8217AA81E28A58F9"
+			rewards: [
+				{
+					id: "9AC81FE54E139092"
+					type: "xp"
+					xp: 15
+				}
+			]
+			tasks: [
+				{
+					id: "50BBA60240A24E2F"
+					item: { count: 1, id: "minecolonies:blockhutstonemason" }
+					type: "item"
+				}
+			]
+			title: "Le Tailleur de Pierre"
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"D4C9C27D95290C60"
+				"8217AA81E28A58F9"
+			]
+			description: [
+				"Améliore la Hutte du Bâtisseur au niveau 3 pour débloquer plus de bâtiments."
+			]
+			icon: { id: "minecolonies:blockhutbuilder" }
+			id: "7C549BB5D8BD8F66"
+			shape: "diamond"
+			rewards: [
+				{
+					id: "ED041F92DEDCACD3"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [
+				{
+					id: "EA86C86B20C9AC14"
+					count: 2L
+					item: { count: 1, id: "minecolonies:blockhutbuilder" }
+					type: "item"
+				}
+			]
+			title: "Une colonie qui grandit"
+			x: 8.0d
+			y: 5.0d
+		}
+	]
+	title: "MineColonies : Ta Colonie"
+}

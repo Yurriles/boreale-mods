@@ -1,5 +1,5 @@
 {
-  "version": 1784464467622,
+  "version": 1784465136401,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -566,6 +566,18 @@
       "size": 17142,
       "sha1": "2c877230ef6b64ba15ead0dd74ef9b80e22c362f",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/create.snbt"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/minecolonies.snbt",
+      "size": 8681,
+      "sha1": "95e4e6d47dcbe3413a668c47b9e15f2fa864f0b0",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/minecolonies.snbt"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/minecolonies_avance.snbt",
+      "size": 17046,
+      "sha1": "1b2c6ee2ace29743accb69fcbb1248be4df8692f",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/minecolonies_avance.snbt"
     },
     {
       "path": "config/ftbquests/quests/chapter_groups.snbt",
