@@ -86,7 +86,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = §lSe connecter
+  label = Se connecter
   navigatable = true
   widget_active_state_requirement_container_identifier = a1000000-0000-4000-8000-000000000022
   [loading_requirement_container_meta:a1000000-0000-4000-8000-000000000022] = [groups:][instances:]

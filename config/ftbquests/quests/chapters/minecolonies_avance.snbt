@@ -58,8 +58,8 @@
 				}
 			]
 			title: "L'Université"
-			x: 2.0d
-			y: -2.0d
+			x: 3.8d
+			y: -3.8d
 		}
 		{
 			dependencies: [
@@ -85,8 +85,8 @@
 				}
 			]
 			title: "La Bibliothèque"
-			x: 4.0d
-			y: -3.0d
+			x: 7.6d
+			y: -5.7d
 		}
 		{
 			dependencies: [
@@ -109,8 +109,8 @@
 				}
 			]
 			title: "L'École"
-			x: 4.0d
-			y: -2.0d
+			x: 7.6d
+			y: -3.8d
 		}
 		{
 			dependencies: [
@@ -136,8 +136,8 @@
 				}
 			]
 			title: "L'Hôpital"
-			x: 2.0d
-			y: -1.0d
+			x: 3.8d
+			y: -1.9d
 		}
 		{
 			dependencies: [
@@ -160,8 +160,8 @@
 				}
 			]
 			title: "Le Cimetière"
-			x: 4.0d
-			y: -1.0d
+			x: 7.6d
+			y: -1.9d
 		}
 		{
 			dependencies: [
@@ -187,8 +187,8 @@
 				}
 			]
 			title: "La Fonderie"
-			x: 2.0d
-			y: 1.0d
+			x: 3.8d
+			y: 1.9d
 		}
 		{
 			dependencies: [
@@ -214,8 +214,8 @@
 				}
 			]
 			title: "Le Forgeron"
-			x: 4.0d
-			y: 1.0d
+			x: 7.6d
+			y: 1.9d
 		}
 		{
 			dependencies: [
@@ -241,8 +241,8 @@
 				}
 			]
 			title: "Le Mécanicien"
-			x: 4.0d
-			y: 2.0d
+			x: 7.6d
+			y: 3.8d
 		}
 		{
 			dependencies: [
@@ -265,7 +265,7 @@
 				}
 			]
 			title: "Le Broyeur"
-			x: 4.0d
+			x: 7.6d
 			y: 0.0d
 		}
 		{
@@ -293,7 +293,7 @@
 				}
 			]
 			title: "Le Tamiseur"
-			x: 6.0d
+			x: 11.4d
 			y: 0.0d
 		}
 		{
@@ -317,8 +317,8 @@
 				}
 			]
 			title: "Le Four à Pierre"
-			x: 4.0d
-			y: 3.0d
+			x: 7.6d
+			y: 5.7d
 		}
 		{
 			dependencies: [
@@ -341,8 +341,8 @@
 				}
 			]
 			title: "Le Bétonnier"
-			x: 6.0d
-			y: 3.0d
+			x: 11.4d
+			y: 5.7d
 		}
 		{
 			dependencies: [
@@ -365,8 +365,8 @@
 				}
 			]
 			title: "Le Verrier"
-			x: 6.0d
-			y: 4.0d
+			x: 11.4d
+			y: 7.6d
 		}
 		{
 			dependencies: [
@@ -389,8 +389,8 @@
 				}
 			]
 			title: "Le Teinturier"
-			x: 2.0d
-			y: 3.0d
+			x: 3.8d
+			y: 5.7d
 		}
 		{
 			dependencies: [
@@ -413,8 +413,8 @@
 				}
 			]
 			title: "L'Archer (Arcs)"
-			x: 2.0d
-			y: 4.0d
+			x: 3.8d
+			y: 7.6d
 		}
 		{
 			dependencies: [
@@ -437,8 +437,8 @@
 				}
 			]
 			title: "La Boulangerie"
-			x: 2.0d
-			y: 6.0d
+			x: 3.8d
+			y: 11.4d
 		}
 		{
 			dependencies: [
@@ -461,8 +461,8 @@
 				}
 			]
 			title: "La Cuisine"
-			x: 4.0d
-			y: 6.0d
+			x: 7.6d
+			y: 11.4d
 		}
 		{
 			dependencies: [
@@ -485,8 +485,8 @@
 				}
 			]
 			title: "Le Vacher"
-			x: 2.0d
-			y: 7.0d
+			x: 3.8d
+			y: 13.3d
 		}
 		{
 			dependencies: [
@@ -509,8 +509,8 @@
 				}
 			]
 			title: "Le Berger"
-			x: 4.0d
-			y: 7.0d
+			x: 7.6d
+			y: 13.3d
 		}
 		{
 			dependencies: [
@@ -533,8 +533,8 @@
 				}
 			]
 			title: "L'Éleveur de Porcs"
-			x: 2.0d
-			y: 8.0d
+			x: 3.8d
+			y: 15.2d
 		}
 		{
 			dependencies: [
@@ -557,8 +557,8 @@
 				}
 			]
 			title: "Le Poulailler"
-			x: 4.0d
-			y: 8.0d
+			x: 7.6d
+			y: 15.2d
 		}
 		{
 			dependencies: [
@@ -581,8 +581,8 @@
 				}
 			]
 			title: "Le Clapier"
-			x: 2.0d
-			y: 9.0d
+			x: 3.8d
+			y: 17.1d
 		}
 		{
 			dependencies: [
@@ -609,8 +609,8 @@
 				}
 			]
 			title: "Le Composteur"
-			x: 2.0d
-			y: 5.0d
+			x: 3.8d
+			y: 9.5d
 		}
 		{
 			dependencies: [
@@ -633,8 +633,8 @@
 				}
 			]
 			title: "L'Écurie"
-			x: 6.0d
-			y: 7.0d
+			x: 11.4d
+			y: 13.3d
 		}
 		{
 			dependencies: [
@@ -657,8 +657,8 @@
 				}
 			]
 			title: "L'Apiculteur"
-			x: 4.0d
-			y: 5.0d
+			x: 7.6d
+			y: 9.5d
 		}
 		{
 			dependencies: [
@@ -685,8 +685,8 @@
 				}
 			]
 			title: "La Caserne"
-			x: 2.0d
-			y: -4.0d
+			x: 3.8d
+			y: -7.6d
 		}
 		{
 			dependencies: [
@@ -709,8 +709,8 @@
 				}
 			]
 			title: "Académie de Combat"
-			x: 4.0d
-			y: -5.0d
+			x: 7.6d
+			y: -9.5d
 		}
 		{
 			dependencies: [
@@ -733,8 +733,8 @@
 				}
 			]
 			title: "Le Stand de Tir"
-			x: 4.0d
-			y: -4.0d
+			x: 7.6d
+			y: -7.6d
 		}
 		{
 			dependencies: [
@@ -757,8 +757,8 @@
 				}
 			]
 			title: "L'Enchanteur"
-			x: 6.0d
-			y: -3.0d
+			x: 11.4d
+			y: -5.7d
 		}
 		{
 			dependencies: [
@@ -781,8 +781,8 @@
 				}
 			]
 			title: "L'Alchimiste"
-			x: 6.0d
-			y: -2.0d
+			x: 11.4d
+			y: -3.8d
 		}
 		{
 			dependencies: [
@@ -805,8 +805,8 @@
 				}
 			]
 			title: "Le Site Mystique"
-			x: 8.0d
-			y: -3.0d
+			x: 15.2d
+			y: -5.7d
 		}
 		{
 			dependencies: [
@@ -832,8 +832,8 @@
 				}
 			]
 			title: "La Plantation"
-			x: 4.0d
-			y: -2.5d
+			x: 3.8d
+			y: -5.7d
 		}
 		{
 			dependencies: [
@@ -860,8 +860,8 @@
 				}
 			]
 			title: "Le Mineur du Nether"
-			x: 6.0d
-			y: 2.0d
+			x: 11.4d
+			y: 3.8d
 		}
 		{
 			dependencies: [
@@ -889,7 +889,7 @@
 			]
 			title: "Cutter d'Architecte"
 			x: 0.0d
-			y: 2.0d
+			y: 3.8d
 		}
 		{
 			dependencies: [
@@ -914,7 +914,7 @@
 			]
 			title: "Briques décoratives"
 			x: 0.0d
-			y: 3.0d
+			y: 5.7d
 		}
 		{
 			dependencies: [
@@ -940,8 +940,8 @@
 				}
 			]
 			title: "Table de Chancellerie"
-			x: 4.0d
-			y: -6.0d
+			x: 7.6d
+			y: -11.4d
 		}
 		{
 			dependencies: [
@@ -969,8 +969,8 @@
 				}
 			]
 			title: "La Couronne"
-			x: 6.0d
-			y: -6.0d
+			x: 11.4d
+			y: -11.4d
 		}
 	]
 	title: "MineColonies : Cité & Métiers"

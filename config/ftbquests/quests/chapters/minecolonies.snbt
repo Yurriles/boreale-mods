@@ -62,7 +62,7 @@
 				}
 			]
 			title: "La Mairie"
-			x: 2.0d
+			x: 3.6d
 			y: 0.0d
 		}
 		{
@@ -90,7 +90,7 @@
 				}
 			]
 			title: "La Hutte du Bâtisseur"
-			x: 4.0d
+			x: 7.2d
 			y: 0.0d
 		}
 		{
@@ -118,8 +118,8 @@
 				}
 			]
 			title: "Outils du colon"
-			x: 4.0d
-			y: -1.5d
+			x: 7.2d
+			y: -2.7d
 		}
 		{
 			dependencies: [
@@ -145,8 +145,8 @@
 				}
 			]
 			title: "Une Résidence"
-			x: 6.0d
-			y: -1.0d
+			x: 10.8d
+			y: -1.8d
 		}
 		{
 			dependencies: [
@@ -172,8 +172,8 @@
 				}
 			]
 			title: "La Taverne"
-			x: 8.0d
-			y: -1.0d
+			x: 14.4d
+			y: -1.8d
 		}
 		{
 			dependencies: [
@@ -199,7 +199,7 @@
 				}
 			]
 			title: "Le Restaurant"
-			x: 6.0d
+			x: 10.8d
 			y: 0.0d
 		}
 		{
@@ -226,8 +226,8 @@
 				}
 			]
 			title: "L'Entrepôt"
-			x: 6.0d
-			y: 1.0d
+			x: 10.8d
+			y: 1.8d
 		}
 		{
 			dependencies: [
@@ -253,8 +253,8 @@
 				}
 			]
 			title: "Le Livreur"
-			x: 8.0d
-			y: 1.0d
+			x: 14.4d
+			y: 1.8d
 		}
 		{
 			dependencies: [
@@ -280,8 +280,8 @@
 				}
 			]
 			title: "Tour de Garde"
-			x: 6.0d
-			y: 2.0d
+			x: 10.8d
+			y: 3.6d
 		}
 		{
 			dependencies: [
@@ -304,8 +304,8 @@
 				}
 			]
 			title: "Le Mineur"
-			x: 4.0d
-			y: 2.0d
+			x: 7.2d
+			y: 3.6d
 		}
 		{
 			dependencies: [
@@ -328,8 +328,8 @@
 				}
 			]
 			title: "Le Bûcheron"
-			x: 4.0d
-			y: 3.0d
+			x: 7.2d
+			y: 5.4d
 		}
 		{
 			dependencies: [
@@ -352,8 +352,8 @@
 				}
 			]
 			title: "Le Fermier"
-			x: 6.0d
-			y: 3.0d
+			x: 10.8d
+			y: 5.4d
 		}
 		{
 			dependencies: [
@@ -376,8 +376,8 @@
 				}
 			]
 			title: "Le Pêcheur"
-			x: 6.0d
-			y: 4.0d
+			x: 10.8d
+			y: 7.2d
 		}
 		{
 			dependencies: [
@@ -400,8 +400,8 @@
 				}
 			]
 			title: "Le Fleuriste"
-			x: 2.0d
-			y: 3.0d
+			x: 3.6d
+			y: 5.4d
 		}
 		{
 			dependencies: [
@@ -427,8 +427,8 @@
 				}
 			]
 			title: "La Scierie"
-			x: 6.0d
-			y: 5.0d
+			x: 10.8d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -451,8 +451,8 @@
 				}
 			]
 			title: "Le Tailleur de Pierre"
-			x: 4.0d
-			y: 5.0d
+			x: 7.2d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -481,8 +481,8 @@
 				}
 			]
 			title: "Une colonie qui grandit"
-			x: 8.0d
-			y: 5.0d
+			x: 14.4d
+			y: 9.0d
 		}
 	]
 	title: "MineColonies : Ta Colonie"
