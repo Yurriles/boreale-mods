@@ -1,5 +1,5 @@
 {
-  "version": 1784468868440,
+  "version": 1784493023433,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -224,6 +224,12 @@
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar"
     },
     {
+      "name": "ferritecore-7.0.3-neoforge.jar",
+      "size": 121559,
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ferritecore-7.0.3-neoforge.jar"
+    },
+    {
       "name": "FramedBlocks-10.6.1.jar",
       "size": 4306703,
       "sha1": "3007be0007d09c0225ca33b647461f342eac0503",
@@ -260,10 +266,22 @@
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
     },
     {
+      "name": "icbm-1.21.1-1.21.1-2.0.0.jar",
+      "size": 3969565,
+      "sha1": "2697c10470d280c296cb55ad8fdbbee8ad58ddfe",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/icbm-1.21.1-1.21.1-2.0.0.jar"
+    },
+    {
       "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
       "size": 217081,
       "sha1": "5e9dda03c6142400b95dc3114675e07c943d554d",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
+    },
+    {
+      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "size": 2540723,
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
     },
     {
       "name": "ironchest-1.21-neoforge-16.0.7.jar",
@@ -282,6 +300,12 @@
       "size": 1635411,
       "sha1": "82a8ee647d81c40f149c444c5d37088f035cb773",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/jei-1.21.1-neoforge-19.39.0.368.jar"
+    },
+    {
+      "name": "journeymap-neoforge-1.21.1-6.0.1.jar",
+      "size": 4151399,
+      "sha1": "41989e3f82ab332c242b02253a95e06bcdcfafc1",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/journeymap-neoforge-1.21.1-6.0.1.jar"
     },
     {
       "name": "konkrete_neoforge_1.9.9_MC_1.21.jar",
@@ -330,6 +354,12 @@
       "size": 344144,
       "sha1": "67242084aaebd758076954b1df9c5d79e83732d1",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/minions-1.0.0.jar"
+    },
+    {
+      "name": "modernfix-neoforge-5.27.20+mc1.21.1.jar",
+      "size": 599474,
+      "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar"
     },
     {
       "name": "Morphise-1.0.0.jar",
@@ -396,6 +426,12 @@
       "size": 30512,
       "sha1": "5b6a85a2a833c6c6a5337e3fb720dba1a4d073aa",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/snowundertrees-1.21.1-1.5.1.jar"
+    },
+    {
+      "name": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "size": 1291418,
+      "sha1": "762251ab3d6825d5accfd89c3f02f1145376105e",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar"
     },
     {
       "name": "sophisticatedbackpacks-1.21.1-3.25.71.1997.jar",
