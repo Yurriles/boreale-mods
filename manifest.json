@@ -1,5 +1,5 @@
 {
-  "version": 1784462194523,
+  "version": 1784462992613,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -318,6 +318,12 @@
       "size": 77496046,
       "sha1": "d12b742cbe4013321924041a3d88bdc5e6c51ee7",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/minecolonies-1.1.1319-1.21.1.jar"
+    },
+    {
+      "name": "minions-1.0.0.jar",
+      "size": 344144,
+      "sha1": "67242084aaebd758076954b1df9c5d79e83732d1",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/minions-1.0.0.jar"
     },
     {
       "name": "Morphise-1.0.0.jar",
