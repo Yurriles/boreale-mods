@@ -652,15 +652,15 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = a1000000-0000-4000-8000-00000000d0
-  [executable_block:a1000000-0000-4000-8000-00000000d0][type:generic] = [executables:]
+  button_element_executable_block_identifier = a1000000-0000-4000-8000-0000000000d0
+  [executable_block:a1000000-0000-4000-8000-0000000000d0][type:generic] = [executables:]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
-  widget_active_state_requirement_container_identifier = a1000000-0000-4000-8000-00000000d1
-  [loading_requirement_container_meta:a1000000-0000-4000-8000-00000000d1] = [groups:][instances:]
+  widget_active_state_requirement_container_identifier = a1000000-0000-4000-8000-0000000000d1
+  [loading_requirement_container_meta:a1000000-0000-4000-8000-0000000000d1] = [groups:][instances:]
   is_template = false
   template_apply_width = false
   template_apply_height = false
@@ -694,8 +694,8 @@ vanilla_button {
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = a1000000-0000-4000-8000-00000000d2
-  [loading_requirement_container_meta:a1000000-0000-4000-8000-00000000d2] = [groups:][instances:]
+  element_loading_requirement_container_identifier = a1000000-0000-4000-8000-0000000000d2
+  [loading_requirement_container_meta:a1000000-0000-4000-8000-0000000000d2] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
@@ -709,15 +709,15 @@ vanilla_button {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = a1000000-0000-4000-8000-00000000c0
-  [executable_block:a1000000-0000-4000-8000-00000000c0][type:generic] = [executables:]
+  button_element_executable_block_identifier = a1000000-0000-4000-8000-0000000000c0
+  [executable_block:a1000000-0000-4000-8000-0000000000c0][type:generic] = [executables:]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
-  widget_active_state_requirement_container_identifier = a1000000-0000-4000-8000-00000000c1
-  [loading_requirement_container_meta:a1000000-0000-4000-8000-00000000c1] = [groups:][instances:]
+  widget_active_state_requirement_container_identifier = a1000000-0000-4000-8000-0000000000c1
+  [loading_requirement_container_meta:a1000000-0000-4000-8000-0000000000c1] = [groups:][instances:]
   is_template = false
   template_apply_width = false
   template_apply_height = false
@@ -751,8 +751,8 @@ vanilla_button {
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = a1000000-0000-4000-8000-00000000c2
-  [loading_requirement_container_meta:a1000000-0000-4000-8000-00000000c2] = [groups:][instances:]
+  element_loading_requirement_container_identifier = a1000000-0000-4000-8000-0000000000c2
+  [loading_requirement_container_meta:a1000000-0000-4000-8000-0000000000c2] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false

@@ -1,5 +1,5 @@
 {
-  "version": 1784459202631,
+  "version": 1784460093038,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -508,6 +508,12 @@
   ],
   "files": [
     {
+      "path": "config/create-client.toml",
+      "size": 4795,
+      "sha1": "b4a0c6c75136b9b62a56c128c0b50d8617e8d1ee",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/create-client.toml"
+    },
+    {
       "path": "config/fancymenu/assets/background.png",
       "size": 5519213,
       "sha1": "89680b56fa5d12aaaebc21ba5f6f6b4c6746415f",
@@ -527,15 +533,21 @@
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "size": 25149,
-      "sha1": "5012e0df46f54bdac73e7cf0317dc07b8b7214bb",
+      "size": 25173,
+      "sha1": "3b119b04625291a94d9f825fc40abea76780c0ab",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/customization/title_screen_layout.txt"
     },
     {
       "path": "config/fancymenu/options.txt",
-      "size": 256,
-      "sha1": "87fa19fb3dab372bfad7a706399d5a8247c6d6e5",
+      "size": 4399,
+      "sha1": "f3d1421fd99eaecec137a7a80d0f1c328a12a171",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/options.txt"
+    },
+    {
+      "path": "config/unionlib-client.toml",
+      "size": 1691,
+      "sha1": "fbe73376b468d17191baa2ca8c595cc874c797f9",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/unionlib-client.toml"
     }
   ]
 }
