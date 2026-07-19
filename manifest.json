@@ -1,5 +1,5 @@
 {
-  "version": 1784460093038,
+  "version": 1784462194523,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -228,6 +228,12 @@
       "size": 1425984,
       "sha1": "a653118630fa17ed37d67b0beddc5984c760fc72",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ftb-library-neoforge-2101.1.33.jar"
+    },
+    {
+      "name": "ftb-quests-neoforge-2101.1.27.jar",
+      "size": 1470929,
+      "sha1": "baf3a7f173d09c2b9800626109cf6ca5a52a6c19",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ftb-quests-neoforge-2101.1.27.jar"
     },
     {
       "name": "ftb-teams-neoforge-2101.1.10.jar",
@@ -542,6 +548,30 @@
       "size": 4399,
       "sha1": "f3d1421fd99eaecec137a7a80d0f1c328a12a171",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/options.txt"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/bien_debuter.snbt",
+      "size": 6560,
+      "sha1": "56bcb913ce4c16962ce2a3cc081efbb805ec37ff",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/bien_debuter.snbt"
+    },
+    {
+      "path": "config/ftbquests/quests/chapters/create.snbt",
+      "size": 17142,
+      "sha1": "2c877230ef6b64ba15ead0dd74ef9b80e22c362f",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/create.snbt"
+    },
+    {
+      "path": "config/ftbquests/quests/chapter_groups.snbt",
+      "size": 25,
+      "sha1": "9228c43ad409809ffd47efec6fa9500cb203dee4",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapter_groups.snbt"
+    },
+    {
+      "path": "config/ftbquests/quests/data.snbt",
+      "size": 442,
+      "sha1": "6c354692a4a1fbf6eba3c334991879191f07a977",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/data.snbt"
     },
     {
       "path": "config/unionlib-client.toml",
