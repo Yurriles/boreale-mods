@@ -1,5 +1,5 @@
 {
-  "version": 1784493023433,
+  "version": 1784546212635,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -267,8 +267,8 @@
     },
     {
       "name": "icbm-1.21.1-1.21.1-2.0.0.jar",
-      "size": 3969565,
-      "sha1": "2697c10470d280c296cb55ad8fdbbee8ad58ddfe",
+      "size": 3608290,
+      "sha1": "4e7c867e34aa44fd5af5220653deb947a44a2a8c",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/icbm-1.21.1-1.21.1-2.0.0.jar"
     },
     {
@@ -587,8 +587,8 @@
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
-      "size": 25168,
-      "sha1": "4fd04fe929734737c3ddfbdae5e0ef2d55a4f6fc",
+      "size": 25169,
+      "sha1": "84ccf92ddf6076e74f098dd671e5502e5e967faf",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/fancymenu/customization/title_screen_layout.txt"
     },
     {
