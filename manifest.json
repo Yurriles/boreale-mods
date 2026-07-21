@@ -1,5 +1,5 @@
 {
-  "version": 1784550792174,
+  "version": 1784631527852,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -599,26 +599,26 @@
     },
     {
       "path": "config/ftbquests/quests/chapters/bien_debuter.snbt",
-      "size": 6848,
-      "sha1": "49ade0af2d77bfc1407ca8ef93af3b85be422e13",
+      "size": 6798,
+      "sha1": "05112ca40f636bf9c1779c75909683be19d87cfd",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/bien_debuter.snbt"
     },
     {
       "path": "config/ftbquests/quests/chapters/create.snbt",
-      "size": 17718,
-      "sha1": "de0eec9953667f73800b76c73aec9d69402c8a2b",
+      "size": 17625,
+      "sha1": "d0245c3a33c85a4135a565601df1dbb2cf5377ea",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/create.snbt"
     },
     {
       "path": "config/ftbquests/quests/chapters/minecolonies.snbt",
-      "size": 8979,
-      "sha1": "20c676c733f97fcce1a188443878b9d62cd80c63",
+      "size": 8931,
+      "sha1": "8b62a263ef73d5bf6979cab1298f0fcbec0574a0",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/minecolonies.snbt"
     },
     {
       "path": "config/ftbquests/quests/chapters/minecolonies_avance.snbt",
-      "size": 17646,
-      "sha1": "5e73141967d2ea86e53f33cf4ecfb4906ff12f1f",
+      "size": 17549,
+      "sha1": "7118365260db11b9cdcbb6556525ed45d7218ea2",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/config/ftbquests/quests/chapters/minecolonies_avance.snbt"
     },
     {

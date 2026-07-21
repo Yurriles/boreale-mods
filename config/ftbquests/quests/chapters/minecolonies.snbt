@@ -54,11 +54,10 @@
 					type: "item"
 				}
 				{
-					command: "/eco give @p 50"
-					elevate_perms: true
+					count: 1
 					id: "6207869C80ED0D0A"
-					title: "50 pièces"
-					type: "command"
+					item: { count: 1, id: "ecomod:vote_key" }
+					type: "item"
 				}
 			]
 			tasks: [
@@ -479,11 +478,10 @@
 					xp: 30
 				}
 				{
-					command: "/eco give @p 150"
-					elevate_perms: true
+					count: 1
 					id: "D4B134BA95B9F4DB"
-					title: "150 pièces"
-					type: "command"
+					item: { count: 1, id: "ecomod:mythic_key" }
+					type: "item"
 				}
 			]
 			tasks: [

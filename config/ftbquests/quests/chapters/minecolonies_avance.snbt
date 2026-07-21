@@ -50,11 +50,10 @@
 					xp: 20
 				}
 				{
-					command: "/eco give @p 100"
-					elevate_perms: true
+					count: 1
 					id: "1F7DC654EC7225E3"
-					title: "100 pièces"
-					type: "command"
+					item: { count: 1, id: "ecomod:vote_key" }
+					type: "item"
 				}
 			]
 			tasks: [
@@ -684,11 +683,10 @@
 					xp: 20
 				}
 				{
-					command: "/eco give @p 100"
-					elevate_perms: true
+					count: 1
 					id: "64956978A7ABCA46"
-					title: "100 pièces"
-					type: "command"
+					item: { count: 1, id: "ecomod:vote_key" }
+					type: "item"
 				}
 			]
 			tasks: [
@@ -866,11 +864,10 @@
 					xp: 25
 				}
 				{
-					command: "/eco give @p 150"
-					elevate_perms: true
+					count: 1
 					id: "A4A491C9B02FCEE0"
-					title: "150 pièces"
-					type: "command"
+					item: { count: 1, id: "ecomod:mythic_key" }
+					type: "item"
 				}
 			]
 			tasks: [
@@ -982,11 +979,10 @@
 					xp: 50
 				}
 				{
-					command: "/eco give @p 500"
-					elevate_perms: true
+					count: 1
 					id: "B926EDF86B1C6F4E"
-					title: "500 pièces"
-					type: "command"
+					item: { count: 1, id: "ecomod:legendary_key" }
+					type: "item"
 				}
 			]
 			tasks: [
