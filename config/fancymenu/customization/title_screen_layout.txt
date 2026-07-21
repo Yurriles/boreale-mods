@@ -80,7 +80,7 @@ element {
 
 element {
   button_element_executable_block_identifier = a1000000-0000-4000-8000-000000000020
-  [executable_action_instance:a1000000-0000-4000-8000-000000000021][action_type:joinserver] = play.monserveur.fr
+  [executable_action_instance:a1000000-0000-4000-8000-000000000021][action_type:joinserver] = kurisu.superdarki.xyz:26062
   [executable_block:a1000000-0000-4000-8000-000000000020][type:generic] = [executables:a1000000-0000-4000-8000-000000000021;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
