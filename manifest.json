@@ -1,5 +1,5 @@
 {
-  "version": 1784633291376,
+  "version": 1784634175827,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -72,6 +72,12 @@
       "size": 89325,
       "sha1": "86abc08fbfa8eb3e2a41aa4403a6bd52543ea665",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/chat_heads-0.15.2-neoforge-1.21.jar"
+    },
+    {
+      "name": "Chunky-NeoForge-1.4.23.jar",
+      "size": 340572,
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/Chunky-NeoForge-1.4.23.jar"
     },
     {
       "name": "citadel-2.7.0-1.21.1.jar",
@@ -273,8 +279,8 @@
     },
     {
       "name": "icbm-1.21.1-1.21.1-2.0.0.jar",
-      "size": 3632062,
-      "sha1": "5e27437f04fff30f56270169d6c0d850b682b452",
+      "size": 3641029,
+      "sha1": "31acc58fa66d14a7d6c6fe85d430bfa11acf9485",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/icbm-1.21.1-1.21.1-2.0.0.jar"
     },
     {
@@ -402,6 +408,12 @@
       "size": 456599,
       "sha1": "a5671f7e8d38dfc092ace4091250e8f9e1245e1e",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/pipez-neoforge-1.21.1-1.2.31.jar"
+    },
+    {
+      "name": "plasmovoice-neoforge-1.21.1-2.1.13.jar",
+      "size": 12304232,
+      "sha1": "23d0b4fea0ba844c0a19e9c0ad1bb7d2c5acf078",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/plasmovoice-neoforge-1.21.1-2.1.13.jar"
     },
     {
       "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
