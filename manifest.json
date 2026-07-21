@@ -1,5 +1,5 @@
 {
-  "version": 1784631527852,
+  "version": 1784632164885,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -201,8 +201,8 @@
     },
     {
       "name": "ecomod-1.21.1-1.0.0.jar",
-      "size": 156098,
-      "sha1": "b2f24643fb42f43ed169acce6f4d476a9862392c",
+      "size": 158556,
+      "sha1": "310bed3291fd96b96f27ba470b164e34dab6c4e9",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ecomod-1.21.1-1.0.0.jar"
     },
     {
@@ -234,6 +234,12 @@
       "size": 4306703,
       "sha1": "3007be0007d09c0225ca33b647461f342eac0503",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/FramedBlocks-10.6.1.jar"
+    },
+    {
+      "name": "ftb-chunks-neoforge-2101.1.20.jar",
+      "size": 655911,
+      "sha1": "f8fd8b158379015302f7aa234785f29a1353803d",
+      "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ftb-chunks-neoforge-2101.1.20.jar"
     },
     {
       "name": "ftb-library-neoforge-2101.1.33.jar",
