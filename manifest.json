@@ -1,5 +1,5 @@
 {
-  "version": 1784634175827,
+  "version": 1784637313499,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -207,8 +207,8 @@
     },
     {
       "name": "ecomod-1.21.1-1.0.0.jar",
-      "size": 158556,
-      "sha1": "310bed3291fd96b96f27ba470b164e34dab6c4e9",
+      "size": 159242,
+      "sha1": "234e9823fa2bae9646cea3d5c9675f5df52b3bdd",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/ecomod-1.21.1-1.0.0.jar"
     },
     {
