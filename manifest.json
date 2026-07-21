@@ -1,5 +1,5 @@
 {
-  "version": 1784637313499,
+  "version": 1784637641762,
   "mods": [
     {
       "name": "addictives-3.1.7.jar",
@@ -555,8 +555,8 @@
     },
     {
       "name": "WarNTaxes-NeoForge-5.0.2.jar",
-      "size": 1271411,
-      "sha1": "4fbb8bd3d91271730c24e8b9d7ccae48e4c04f21",
+      "size": 1279244,
+      "sha1": "2610a99424146ca27a9f127b17028209581f7e94",
       "url": "https://raw.githubusercontent.com/Yurriles/boreale-mods/main/mods/WarNTaxes-NeoForge-5.0.2.jar"
     },
     {
